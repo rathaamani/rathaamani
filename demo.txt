@@ -12,5 +12,6 @@ and
 what is repository mean it like a server we can commit the file in the local repository or server repository.
 what is mean commmits and  save the file in  local repository 
 let see about commits. commits is save the application.then, After few week you want add some new features in the application and commit another few week you want older version application you get is easy beacuse it the file in separate into two file and old and update application. you can old and update also that is use of commit is maintain all versio n of the file the commit
+and i think comment more in feature in the file 
 
 thank you
