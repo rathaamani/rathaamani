@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**rathaamani/rathaamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on android application  developer
+- 🌱 I’m currently learning flutter dart
+- 👯 I’m looking to collaborate on with friend create a new apps
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
