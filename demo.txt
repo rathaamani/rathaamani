@@ -7,7 +7,10 @@ this is  demo file  how to create and why,what,where to use the github and what 
 
 change to some word before 
 
-
-
+I think i can add some more comment in the demo file 
+and 
+what is repository mean it like a server we can commit the file in the local repository or server repository.
+what is mean commmits and  save the file in  local repository 
+let see about commits. commits is save the application.then, After few week you want add some new features in the application and commit another few week you want older version application you get is easy beacuse it the file in separate into two file and old and update application. you can old and update also that is use of commit i think. 
 
 thank you
